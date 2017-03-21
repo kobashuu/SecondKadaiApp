@@ -12,6 +12,7 @@
 		C92E3E8E1E814C7C005FED22 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92E3E8C1E814C7C005FED22 /* Main.storyboard */; };
 		C92E3E901E814C7C005FED22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C92E3E8F1E814C7C005FED22 /* Assets.xcassets */; };
 		C92E3E931E814C7C005FED22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C92E3E911E814C7C005FED22 /* LaunchScreen.storyboard */; };
+		C92E3E9B1E814D91005FED22 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C92E3E9A1E814D91005FED22 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C92E3E8F1E814C7C005FED22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C92E3E921E814C7C005FED22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C92E3E941E814C7C005FED22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C92E3E9A1E814D91005FED22 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C92E3E881E814C7C005FED22 /* AppDelegate.swift */,
 				C92E3E8A1E814C7C005FED22 /* ViewController.swift */,
 				C92E3E8C1E814C7C005FED22 /* Main.storyboard */,
+				C92E3E9A1E814D91005FED22 /* ResultViewController.swift */,
 				C92E3E8F1E814C7C005FED22 /* Assets.xcassets */,
 				C92E3E911E814C7C005FED22 /* LaunchScreen.storyboard */,
 				C92E3E941E814C7C005FED22 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				C92E3E8B1E814C7C005FED22 /* ViewController.swift in Sources */,
 				C92E3E891E814C7C005FED22 /* AppDelegate.swift in Sources */,
+				C92E3E9B1E814D91005FED22 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
